@@ -3,6 +3,9 @@ uuid = "63b46612-4817-4105-9884-ec370fe8c371"
 authors = ["Alphonsus Adu-Bredu"]
 version = "0.1.0"
 
+[deps]
+LibSerialPort = "a05a14c7-6e3b-5ba9-90a2-45558833e1df"
+
 [compat]
 julia = "1"
 
